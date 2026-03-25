@@ -20,6 +20,7 @@ public class Main {
                 break;
             } case 3: {
                 System.out.println("3.- ");
+                //metodoCargar
                 break;
             } case 4: {
                 System.out.println("4. ");
