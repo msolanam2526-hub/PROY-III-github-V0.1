@@ -16,6 +16,7 @@ public class Main {
                 break;
             } case 2: {
                 System.out.println("2.- ");
+                //MetodoEntrenador()
                 break;
             } case 3: {
                 System.out.println("3.- ");
