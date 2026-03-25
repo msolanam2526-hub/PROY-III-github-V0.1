@@ -12,6 +12,7 @@ public class Main {
         switch (opcion){
             case 1: {
                 System.out.println("1.- ");
+                //metodojugadores()
                 break;
             } case 2: {
                 System.out.println("2.- ");
